@@ -45,7 +45,7 @@ p {
 	margin-top: 0;
 	font-family: 'Karla', sans-serif;
 	text-decoration: none;
-	color: #e8a200;
+	color: #F2916D;
 	
 }
 
@@ -304,14 +304,13 @@ p {
 }
 
 .container {
-	/* background-image: url('Assets/nanjing_.jpg'); */
 	display: flex;
 	align-items: flex-start;
 	flex-direction: column;
 	padding-top: 5em;
 	min-height: 100%;
 	width:100%;
-	max-width:900px;
+	max-width:950px;
 	margin:auto;
 	/* width:960px; */
 	/* margin:auto; */
